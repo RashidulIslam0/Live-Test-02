@@ -1,0 +1,27 @@
+.f-size-10{
+    font-size: 10px;
+}
+
+.btn-warning{
+    background-color: #eb4f0c !important;
+    color: white !important;
+}
+.text-warning{
+    color: #FE743D !important;
+}
+
+.nav-logo{
+    width: 100px;
+    height: auto;;
+}
+.nav-link{
+    font-size: 13px;
+    font-family: "Hind Siliguri", sans-serif !important
+}
+.btn{
+    font-family: "Hind Siliguri", sans-serif !important
+}
+
+.column{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
